@@ -1,0 +1,52 @@
+.btn-warning{
+    background-color: #D08700;
+    border-color: #D08700;
+}
+
+#about{
+    background-color: #D08700;
+}
+
+.text{
+    color: #000000;
+}
+
+.navbar{
+    padding: 1em;
+}
+
+.icons{
+    width:1em;
+    height: auto;
+    margin: 5px;
+}
+
+img{
+    margin-top: 1em;
+}
+
+.pricing-title, .pricing-price {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.btn-custom {
+    font-weight: bold;
+    width: 20em;
+    text-transform: uppercase;
+}
+
+.btn-dark {
+    background-color: #333;
+    color: #fff;
+}
+
+.btn-gold {
+    background-color: gold;
+    color: black;
+}
+
+.list-unstyled {
+    text-align: left; 
+    margin-left: 1em;
+}
