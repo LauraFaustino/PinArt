@@ -34,17 +34,18 @@ img{
     font-weight: bold;
     width: 20em;
     text-transform: uppercase;
-    margin-bottom: 5em;
 }
 
 .btn-dark {
     background-color: #333;
     color: #fff;
+    margin-bottom: 5em;
 }
 
 .btn-gold {
     background-color: gold;
     color: black;
+    margin-bottom: 5em;
 }
 
 .list-unstyled {
