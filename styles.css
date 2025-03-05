@@ -34,6 +34,7 @@ img{
     font-weight: bold;
     width: 20em;
     text-transform: uppercase;
+    margin-bottom: 5em;
 }
 
 .btn-dark {
